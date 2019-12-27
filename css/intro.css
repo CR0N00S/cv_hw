@@ -26,3 +26,19 @@ h3{
     font-size: 25px;
     font-family: Tahoma;
 }
+.skill
+{
+    display: inline-block;
+    font-size: 20px;
+    width: 28%;
+    padding: 10px 10px;
+    text-align: center;
+}
+.hobby
+{
+    display: inline-block;
+    font-size: 20px;
+    width: 28%;
+    padding: 10px 10px;
+    text-align: center;
+}
